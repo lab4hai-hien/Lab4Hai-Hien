@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hien cute
-=======
-hien test merge nha
->>>>>>> hien
